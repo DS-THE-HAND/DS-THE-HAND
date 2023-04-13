@@ -3,7 +3,6 @@ For now, I'll be hanging around.
 
 Still working on the whole figuring things out. I think I finally got the GPG Working.
 
-PGP Key:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEY/KWsBYJKwYBBAHaRw8BAQdAojVQDd6MPNOxhmg1mxyTGE2TcOx5OB6c2wQ4
