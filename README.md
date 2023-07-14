@@ -3,4 +3,4 @@ For now, I'll be hanging around.
 
 Still working on the whole figuring things out. I think I finally got the GPG Working.
 
-[PGP Public Key Here](https://duncesquad.net/HandPublicKey.txt)https://duncesquad.net/HandPublicKey.txt
+[PGP Public Key Here](https://duncesquad.net/HandPublicKey.txt)
